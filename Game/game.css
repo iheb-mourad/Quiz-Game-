@@ -26,6 +26,14 @@ width: 400px;
 margin-left: 35%;
 margin-top: 3%; 
 }
+.img4 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
 
 #orden {
 padding: 15px 25px;
@@ -229,3 +237,164 @@ padding: 15px 25px;
   background-color: #3e878e;
   box-shadow: 0 5px #666;
   transform: translateY(4px); }
+
+
+  #eswatini {
+    padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #694bca;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-top: 15%;
+      margin-left: 15%;
+      
+    }
+    #eswatini:hover{background-color: #1da5a5ad}
+#eswatini:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#Maldives {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #Maldives:hover{background-color: #1da5a5ad}
+#Maldives:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+#Seychelles {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #Seychelles:hover{background-color: #1da5a5ad}
+#Seychelles:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+
+#argentina {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #argentina:hover{background-color: #1da5a5ad}
+#argentina:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#germany {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #germany:hover{background-color: #1da5a5ad}
+#germany:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#uruguay {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #uruguay:hover{background-color: #1da5a5ad}
+#uruguay:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+#Philippines {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 88%;
+    
+  }
+  #Philippines:hover{background-color: #1da5a5ad}
+#Philippines:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
