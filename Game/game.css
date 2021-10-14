@@ -1,0 +1,108 @@
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5603ef8ee4b0dc68f61db2cb/1564474523056-L8RI8GLWQXK3IS6Z1WKN/css-lattice-pattern.png?format=2500w);
+    background-size: cover;
+}
+.img1 {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  margin-left: 35%;
+  margin-top: 3%; 
+}
+.img2 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
+
+#orden {
+padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #694bca;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 15%;
+  margin-left: 15%;
+  
+}
+
+
+
+#orden:hover{background-color: #1da5a5ad}
+#orden:active {
+    background-color: #3e878e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#palastin {
+    padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #694bca;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-top: 15%;
+      margin-left: 15%;
+      
+    }
+    #palastin:hover{background-color: #1da5a5ad}
+    #palastin:active {
+        background-color: #3e878e;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+    #egypt {
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: #694bca;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          margin-top: 15%;
+          margin-left: 15%;
+          
+        }
+        #egypt:hover{background-color: #1da5a5ad}
+        #egypt:active {
+            background-color: #3e878e;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+        #emirates {
+            padding: 15px 25px;
+              font-size: 24px;
+              text-align: center;
+              cursor: pointer;
+              outline: none;
+              color: #fff;
+              background-color: #694bca;
+              border: none;
+              border-radius: 15px;
+              box-shadow: 0 9px #999;
+              margin-top: 15%;
+              margin-left: 15%;
+              
+            }
+            #emirates:hover{background-color: #1da5a5ad}
+            #emirates:active {
+                background-color: #3e878e;
+              box-shadow: 0 5px #666;
+              transform: translateY(4px);
+            }
