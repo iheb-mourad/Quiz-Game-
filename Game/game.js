@@ -72,8 +72,12 @@ $(".img3").hide()
         $("#germany").show(1000)
         $("#argentina").show(1000)
         
-        
-        
-
     }
-   
+
+    function truee4(){
+        $(".img4").hide(1000)
+        $("#Philippines").hide(1000)
+        $("#uruguay").hide(1000)
+        $("#germany").hide(1000)
+        $("#argentina").hide(1000)
+    }
