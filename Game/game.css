@@ -18,6 +18,14 @@ width: 400px;
 margin-left: 35%;
 margin-top: 3%; 
 }
+.img3 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
 
 #orden {
 padding: 15px 25px;
@@ -106,3 +114,118 @@ padding: 15px 25px;
               box-shadow: 0 5px #666;
               transform: translateY(4px);
             }
+
+
+            #USA {
+              padding: 15px 25px;
+                font-size: 24px;
+                text-align: center;
+                cursor: pointer;
+                outline: none;
+                color: #fff;
+                background-color: #694bca;
+                border: none;
+                border-radius: 15px;
+                box-shadow: 0 9px #999;
+                margin-top: 15%;
+                margin-left: 15%;
+                
+              }
+              #USA:hover{background-color: #1da5a5ad}
+        #USA:active {
+            background-color: #3e878e;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px); }
+          #france {
+            padding: 15px 25px;
+              font-size: 24px;
+              text-align: center;
+              cursor: pointer;
+              outline: none;
+              color: #fff;
+              background-color: #694bca;
+              border: none;
+              border-radius: 15px;
+              box-shadow: 0 9px #999;
+              margin-top: 15%;
+              margin-left: 15%;
+              
+            }
+            #france:hover{background-color: #1da5a5ad}
+      #france:active {
+          background-color: #3e878e;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px); }
+
+
+
+
+        #canada {
+          padding: 15px 25px;
+            font-size: 24px;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            color: #fff;
+            background-color: #694bca;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #999;
+            margin-top: 15%;
+            margin-left: 15%;
+            
+          }
+          #canada:hover{background-color: #1da5a5ad}
+    #canada:active {
+        background-color: #3e878e;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px); }
+
+
+
+
+      #Russia {
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: #694bca;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          margin-top: 15%;
+          margin-left: 15%;
+          
+        }
+        #Russia:hover{background-color: #1da5a5ad}
+  #Russia:active {
+      background-color: #3e878e;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px); }
+
+
+
+
+   #Maurice {
+      padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #694bca;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-top: 15%;
+        margin-left: 15%;
+        
+      }
+      #Maurice:hover{background-color: #1da5a5ad}
+#Maurice:active {
+
+  background-color: #3e878e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px); }
