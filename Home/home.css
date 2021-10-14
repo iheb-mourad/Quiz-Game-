@@ -1,0 +1,65 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/859/091/non_2x/world-map-background-in-navy-blue-and-gold-free-vector.jpg);
+}
+
+#BOT {
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #694bca;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 30%;
+  margin-left: 45%;
+  
+}
+#BOT:hover{background-color: #1da5a5ad}
+#BOT:active {
+    background-color: #3e878e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#text {
+    font-size: 80px;
+  color: #fff;
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+
+h1{
+    color: rgb(221, 50, 107);
+    
+    animation: haha 3s ease infinite;
+    margin-left: 23%;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+@keyframes haha {
+    0%{
+        letter-spacing: 0px;
+    }
+    100%{
+        letter-spacing: 15px;
+    }
+}
+.New {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 30%;
+    margin-left: 45%;
+    
+}
