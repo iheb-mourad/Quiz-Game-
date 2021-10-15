@@ -24,6 +24,7 @@ function score(){
 
 
 
+$("h2").hide()
 
 $("ul").hide()
 function toGame(){
@@ -55,6 +56,7 @@ $("#Philippines").hide()
 $("#uruguay").hide()
 $("#germany").hide()
 $("#argentina").hide()
+$(".rest").hide()
 
 function truee(){
          $("#palastin").hide(1000)
@@ -187,6 +189,10 @@ $(".img3").hide()
                                     $(".greece").hide(1000)
                                     $(".hungary").hide(1000)
                                     $(".turkey").hide(1000)
+                                    $("#box").hide(1000)
+                                    $(".rest").show(1000)
+                                    $("h2").show(1000)
+
                                    
                                 };
 
@@ -199,7 +205,10 @@ $(".img3").hide()
                                             function falsee18(){
                                                 $(".turkey").css( "text-decoration", "line-through","color:red")
                                                 $( ".turkey" ).css("color", "red")};
-                                               
+
+                            
+                            
+                                         
                                
                                
                                

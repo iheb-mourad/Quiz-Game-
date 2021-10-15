@@ -50,6 +50,24 @@ h1{
         letter-spacing: 15px;
     }
 }
+h2{
+  color: rgb(221, 213, 215);
+  
+  animation: BB 3s ease infinite;
+  margin-left: 23%;
+  margin-top: 150px;
+  font-family: Arial, Helvetica, sans-serif
+
+}
+@keyframes BB {
+  0%{
+      letter-spacing: 0px;
+  }
+  100%{
+      letter-spacing: 15px;
+  }
+}
+
 .New {
     padding: 15px 25px;
     font-size: 24px;
@@ -670,6 +688,28 @@ transform: translateY(4px); }
   }
   .turkey:hover{background-color: #1da5a5ad}
 .turkey:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.rest {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 45%;
+    
+  }
+  .rest:hover{background-color: #1da5a5ad}
+.rest:active {
 background-color: #3e878e;
 box-shadow: 0 5px #666;
 transform: translateY(4px); }
