@@ -112,3 +112,18 @@ $(".img3").hide()
             function falsee12(){
                 $("#germany").css( "text-decoration", "line-through","color:red")
                 $( "#germany" ).css("color", "red")};
+
+                function cont(){
+                    var counter = 60;
+                    var interval = setInterval(function(){
+                        counter--
+                        console.log(counter)
+                        if(counter>=0){
+                            document.getElementById('count').innerHTML = counter
+                        }if(counter===0){
+                            var stopFunction = clearInterval(interval)
+                            document.getElementById('count').innerHTML ='your time is over'
+                        }
+                       
+                    },1000);
+                }
