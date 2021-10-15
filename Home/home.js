@@ -1,24 +1,14 @@
 
-function tayesh(){
-    var url = "file:///C:/Users/INFOKOM/Desktop/Quiz-Game-/Game/game.html";
-$(location).attr('href',url);
-}
 
 /////////////////
 $("ul").hide()
-function tayesh(){
+function toGame(){
     $("ul").show(1000)
     $("h1").hide(1000)
     $("#BOT").hide(1000)
 
 }
 
-
-
-var start = 5;
-function myCounter() {
-document.getElementById("demo").innerHTML = --start;
-}
 
 $(".img2").hide()
 $(".img3").hide()
@@ -53,8 +43,17 @@ function truee(){
     $("#france").show(1000)
     $("#canada").show(1000)
     $("#Russia").show(1000)
-
+    };
+    function falsee1(){
+        $("#palastin").css( "text-decoration", "line-through")
+        $( "#palastin" ).css("color", "red")
     }
+        function falsee2(){
+            $("#egypt").css( "text-decoration", "line-through")
+            $( "#egypt" ).css("color", "red")}
+            function falsee3(){
+                $("#emirates").css( "text-decoration", "line-through","color:red")
+                $( "#emirates" ).css("color", "red")};
 
 $(".img3").hide()
 
@@ -69,10 +68,16 @@ $(".img3").hide()
         $("#Seychelles").show(1000)
         $("#Maurice").show(1000)
         $("#eswatini").show(1000)
-
-
-
-    }
+    };
+    function falsee4(){
+        $("#france").css( "text-decoration", "line-through")
+        $( "#france" ).css("color", "red") }
+            function falsee5(){
+            $("#canada").css( "text-decoration", "line-through")
+            $( "#canada" ).css("color", "red")}
+            function falsee6(){
+                $("#USA").css( "text-decoration", "line-through","color:red")
+                $( "#USA" ).css("color", "red")};
    
     function truee3(){
         $("#Maldives").hide(1000)
@@ -85,8 +90,17 @@ $(".img3").hide()
         $("#uruguay").show(1000)
         $("#germany").show(1000)
         $("#argentina").show(1000)
-        
-    }
+    };
+    function falsee9(){
+        $("#Maldives").css( "text-decoration", "line-through")
+        $( "#Maldives" ).css("color", "red") }
+            function falsee8(){
+            $("#Seychelles").css( "text-decoration", "line-through")
+            $( "#Seychelles" ).css("color", "red")}
+            function falsee7(){
+                $("#Maurice").css( "text-decoration", "line-through","color:red")
+                $( "#Maurice" ).css("color", "red")};
+
     $(".img5").hide()
  $(".danimarca").hide()
  $(".dominican").hide()
@@ -104,5 +118,44 @@ $(".img3").hide()
         $(".dominican").show(1000)
         $(".australia").show(1000)
         $(".espain").show(1000)
-    }
-   
+    };
+    function falsee10(){
+        $("#Philippines").css( "text-decoration", "line-through")
+        $( "#Philippines" ).css("color", "red") }
+            function falsee11(){
+            $("#uruguay").css( "text-decoration", "line-through")
+            $( "#uruguay" ).css("color", "red")}
+            function falsee12(){
+                $("#germany").css( "text-decoration", "line-through","color:red")
+                $( "#germany" ).css("color", "red")};
+                function truee5(){
+                    $(".img5").hide()
+                    $(".danimarca").hide()
+                    $(".dominican").hide()
+                    $(".australia").hide()
+                    $(".espain").hide()
+                };
+                    function falsee13(){
+                        $(".danimarca").css( "text-decoration", "line-through")
+                        $( ".danimarca" ).css("color", "red") }
+                            function falsee14(){
+                            $(".australia").css( "text-decoration", "line-through")
+                            $( ".australia" ).css("color", "red")}
+                            function falsee15(){
+                                $(".espain").css( "text-decoration", "line-through","color:red")
+                                $( ".espain" ).css("color", "red")};
+
+                                function cont(){
+                                    var counter = 60;
+                                    var interval = setInterval(function(){
+                                        counter--
+                                        console.log(counter)
+                                        if(counter>=0){
+                                            document.getElementById('count').innerHTML ="" + counter
+                                        }if(counter===0){
+                                            var stopFunction = clearInterval(interval)
+                                            document.getElementById('count').innerHTML ='your time is over'
+                                        }
+                                       
+                                    },1000);
+                                }
