@@ -128,12 +128,23 @@ $(".img3").hide()
             function falsee12(){
                 $("#germany").css( "text-decoration", "line-through","color:red")
                 $( "#germany" ).css("color", "red")};
+
+                $(".img6").hide()
+                $(".poland").hide()
+                    $(".hungary").hide()
+                    $(".greece").hide()
+                    $(".turkey").hide()
                 function truee5(){
-                    $(".img5").hide()
-                    $(".danimarca").hide()
-                    $(".dominican").hide()
-                    $(".australia").hide()
-                    $(".espain").hide()
+                    $(".img5").hide(1000)
+                    $(".danimarca").hide(1000)
+                    $(".dominican").hide(1000)
+                    $(".australia").hide(1000)
+                    $(".espain").hide(1000)
+                    $(".img6").show(1000)
+                    $(".poland").show(1000)
+                    $(".hungary").show(1000)
+                    $(".greece").show(1000)
+                    $(".turkey").show(1000)
                 };
                     function falsee13(){
                         $(".danimarca").css( "text-decoration", "line-through")

@@ -1,7 +1,7 @@
 body {
   
   position:center ;
-  background-image:url('guess.png') ;
+  background-image:url("https://i.ytimg.com/vi/Xx2XZxZlofI/maxresdefault.jpg") ;
 }
 
 #BOT {
@@ -15,7 +15,7 @@ body {
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
-  margin-top: 30%;
+  margin-top: 20%;
   margin-left: 45%;
   
 }
@@ -34,7 +34,7 @@ body {
 
 
 h1{
-    color: rgb(221, 50, 107);
+    color: rgb(221, 213, 215);
     
     animation: haha 3s ease infinite;
     margin-left: 23%;
@@ -67,7 +67,7 @@ h1{
 }
 
 body {
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5603ef8ee4b0dc68f61db2cb/1564474523056-L8RI8GLWQXK3IS6Z1WKN/css-lattice-pattern.png?format=2500w);
+    background-image: url(https://i.ytimg.com/vi/Xx2XZxZlofI/maxresdefault.jpg);
     background-size: cover;
 }
 .img1 {
@@ -76,7 +76,7 @@ body {
   padding: 5px;
   width: 400px;
   margin-left: 35%;
-  margin-top: 3%; 
+  margin-top: -3%; 
 }
 .img2 {
   border: 1px solid #ddd;
@@ -84,7 +84,7 @@ border-radius: 4px;
 padding: 5px;
 width: 400px;
 margin-left: 35%;
-margin-top: 3%; 
+margin-top: -3%; 
 }
 .img3 {
   border: 1px solid #ddd;
@@ -92,7 +92,7 @@ border-radius: 4px;
 padding: 5px;
 width: 400px;
 margin-left: 35%;
-margin-top: 3%; 
+margin-top: -3%; 
 }
 .img4 {
   border: 1px solid #ddd;
@@ -100,7 +100,7 @@ border-radius: 4px;
 padding: 5px;
 width: 400px;
 margin-left: 35%;
-margin-top: 3%; 
+margin-top: -3%; 
 }
 .img5 {
   border: 1px solid #ddd;
@@ -108,7 +108,15 @@ border-radius: 4px;
 padding: 5px;
 width: 400px;
 margin-left: 35%;
-margin-top: 3%; 
+margin-top: -3%; 
+}
+.img6 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: -3%; 
 }
 
 #orden {
@@ -464,7 +472,7 @@ transform: translateY(4px); }
     border-radius: 15px;
     box-shadow: 0 9px #999;
     position: absolute;
-        top: 75%;;
+        top: 83%;;
     margin-left: 84%;
     
   }
@@ -569,3 +577,91 @@ transform: translateY(4px); }
   margin-top: 150px;
   font-family: Arial, Helvetica, sans-serif
 }
+
+.poland {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 3%;
+    
+  }
+  .poland:hover{background-color: #1da5a5ad}
+.poland:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.hungary {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 24%;
+    
+  }
+  .hungary:hover{background-color: #1da5a5ad}
+.hungary:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.greece {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: -22%;
+    
+  }
+  .greece:hover{background-color: #1da5a5ad}
+.greece:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.turkey {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: -45%;
+    
+  }
+  .turkey:hover{background-color: #1da5a5ad}
+.turkey:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
