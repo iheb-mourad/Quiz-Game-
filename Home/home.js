@@ -156,7 +156,32 @@ $(".img3").hide()
                                 $(".espain").css( "text-decoration", "line-through","color:red")
                                 $( ".espain" ).css("color", "red")};
 
-                                function cont(){
+
+                                function truee6(){
+                                    $(".img6").hide(1000)
+                                    $(".poland").hide(1000)
+                                    $(".greece").hide(1000)
+                                    $(".hungary").hide(1000)
+                                    $(".turkey").hide(1000)
+                                };
+
+                                    function falsee16(){
+                                        $(".poland").css( "text-decoration", "line-through")
+                                        $( ".poland" ).css("color", "red") }
+                                            function falsee17(){
+                                            $(".hungary").css( "text-decoration", "line-through")
+                                            $( ".hungary" ).css("color", "red")}
+                                            function falsee18(){
+                                                $(".turkey").css( "text-decoration", "line-through","color:red")
+                                                $( ".turkey" ).css("color", "red")};
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                                    function cont(){
                                     var counter = 60;
                                     var interval = setInterval(function(){
                                         counter--
