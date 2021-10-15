@@ -63,3 +63,498 @@ h1{
     margin-left: 45%;
     
 }
+
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5603ef8ee4b0dc68f61db2cb/1564474523056-L8RI8GLWQXK3IS6Z1WKN/css-lattice-pattern.png?format=2500w);
+    background-size: cover;
+}
+.img1 {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  margin-left: 35%;
+  margin-top: 3%; 
+}
+.img2 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
+.img3 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
+.img4 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
+.img5 {
+  border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+margin-left: 35%;
+margin-top: 3%; 
+}
+
+#orden {
+padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #694bca;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 15%;
+  margin-left: 15%;
+  
+}
+
+
+
+#orden:hover{background-color: #1da5a5ad}
+#orden:active {
+    background-color: #3e878e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#palastin {
+    padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #694bca;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-top: 15%;
+      margin-left: 15%;
+      
+    }
+    #palastin:hover{background-color: #1da5a5ad}
+    #palastin:active {
+        background-color: #3e878e;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+    }
+    #egypt {
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: #694bca;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          margin-top: 15%;
+          margin-left: 15%;
+          
+        }
+        #egypt:hover{background-color: #1da5a5ad}
+        #egypt:active {
+            background-color: #3e878e;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+        #emirates {
+            padding: 15px 25px;
+              font-size: 24px;
+              text-align: center;
+              cursor: pointer;
+              outline: none;
+              color: #fff;
+              background-color: #694bca;
+              border: none;
+              border-radius: 15px;
+              box-shadow: 0 9px #999;
+              margin-top: 15%;
+              margin-left: 15%;
+              
+            }
+            #emirates:hover{background-color: #1da5a5ad}
+            #emirates:active {
+                background-color: #3e878e;
+              box-shadow: 0 5px #666;
+              transform: translateY(4px);
+            }
+
+
+            #USA {
+              padding: 15px 25px;
+                font-size: 24px;
+                text-align: center;
+                cursor: pointer;
+                outline: none;
+                color: #fff;
+                background-color: #694bca;
+                border: none;
+                border-radius: 15px;
+                box-shadow: 0 9px #999;
+                margin-top: 15%;
+                margin-left: 15%;
+                
+              }
+              #USA:hover{background-color: #1da5a5ad}
+        #USA:active {
+            background-color: #3e878e;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px); }
+          #france {
+            padding: 15px 25px;
+              font-size: 24px;
+              text-align: center;
+              cursor: pointer;
+              outline: none;
+              color: #fff;
+              background-color: #694bca;
+              border: none;
+              border-radius: 15px;
+              box-shadow: 0 9px #999;
+              margin-top: 15%;
+              margin-left: 15%;
+              
+            }
+            #france:hover{background-color: #1da5a5ad}
+      #france:active {
+          background-color: #3e878e;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px); }
+
+
+
+
+        #canada {
+          padding: 15px 25px;
+            font-size: 24px;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            color: #fff;
+            background-color: #694bca;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #999;
+            margin-top: 15%;
+            margin-left: 15%;
+            
+          }
+          #canada:hover{background-color: #1da5a5ad}
+    #canada:active {
+        background-color: #3e878e;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px); }
+
+
+
+
+      #Russia {
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: #694bca;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          margin-top: 15%;
+          margin-left: 15%;
+          
+        }
+        #Russia:hover{background-color: #1da5a5ad}
+  #Russia:active {
+      background-color: #3e878e;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px); }
+
+
+
+
+   #Maurice {
+      padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #694bca;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+        margin-top: 15%;
+        margin-left: 15%;
+        
+      }
+      #Maurice:hover{background-color: #1da5a5ad}
+#Maurice:active {
+
+  background-color: #3e878e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px); }
+
+
+  #eswatini {
+    padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #694bca;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+      margin-top: 15%;
+      margin-left: 15%;
+      
+    }
+    #eswatini:hover{background-color: #1da5a5ad}
+#eswatini:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#Maldives {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #Maldives:hover{background-color: #1da5a5ad}
+#Maldives:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+#Seychelles {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #Seychelles:hover{background-color: #1da5a5ad}
+#Seychelles:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+
+#argentina {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #argentina:hover{background-color: #1da5a5ad}
+#argentina:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#germany {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #germany:hover{background-color: #1da5a5ad}
+#germany:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+
+#uruguay {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-top: 15%;
+    margin-left: 15%;
+    
+  }
+  #uruguay:hover{background-color: #1da5a5ad}
+#uruguay:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+#Philippines {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 75%;;
+    margin-left: 84%;
+    
+  }
+  #Philippines:hover{background-color: #1da5a5ad}
+#Philippines:active {
+
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+.danimarca {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 86%;
+    
+  }
+  .danimarca:hover{background-color: #1da5a5ad}
+.danimarca:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+.dominican {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 63%;
+    
+  }
+  .dominican:hover{background-color: #1da5a5ad}
+.dominican:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.australia {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 33%;
+    
+  }
+  .australia:hover{background-color: #1da5a5ad}
+.australia:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
+
+.espain {
+  padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #694bca;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: absolute;
+        top: 71%;;
+    margin-left: 10%;
+    
+  }
+  .espain:hover{background-color: #1da5a5ad}
+.espain:active {
+background-color: #3e878e;
+box-shadow: 0 5px #666;
+transform: translateY(4px); }
