@@ -1,6 +1,30 @@
 
+ function cont(){
+    var counter = 60;
+    var interval = setInterval(function(){
+        counter--
+        console.log(counter)
+        if(counter>=0){
+            document.getElementById('count').innerHTML ="" + counter
+        }if(counter===0){
+            var stopFunction = clearInterval(interval)
+            document.getElementById('count').innerHTML ='your time is over'
+        }
+       
+    },1000);
+};
+var Score=0
+function score(){
+    Score=Score+10
+    console.log(Score)
+    if(Score>=0){
+        document.getElementById('score001').innerHTML ="" + Score 
+    }
+};
 
-/////////////////
+
+
+
 $("ul").hide()
 function toGame(){
     $("ul").show(1000)
@@ -163,6 +187,7 @@ $(".img3").hide()
                                     $(".greece").hide(1000)
                                     $(".hungary").hide(1000)
                                     $(".turkey").hide(1000)
+                                   
                                 };
 
                                     function falsee16(){
@@ -174,24 +199,10 @@ $(".img3").hide()
                                             function falsee18(){
                                                 $(".turkey").css( "text-decoration", "line-through","color:red")
                                                 $( ".turkey" ).css("color", "red")};
+                                               
                                
                                
                                
                                
                                
                                
-                               
-                                    function cont(){
-                                    var counter = 60;
-                                    var interval = setInterval(function(){
-                                        counter--
-                                        console.log(counter)
-                                        if(counter>=0){
-                                            document.getElementById('count').innerHTML ="" + counter
-                                        }if(counter===0){
-                                            var stopFunction = clearInterval(interval)
-                                            document.getElementById('count').innerHTML ='your time is over'
-                                        }
-                                       
-                                    },1000);
-                                }

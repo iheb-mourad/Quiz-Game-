@@ -34,15 +34,18 @@
     <title>Document</title>
 </head>
 
+<div id="box">
+  <text>Time: <text id="count">60</text></text><br />
+  <text>Score: <text id="score001">0</text></text><br />
 
-<p text="Time :" id="count">60</p>
+</div>
 <body>
     <div>
 <img class="img1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/2000px-Flag_of_Jordan.svg.png" alt="">
 
 </div>
 <div>
-<button onclick="truee()" id="orden">Jordan</button>
+<button onclick="truee(), score()" id="orden">Jordan</button>
 <button onclick="falsee1()" id="palastin">Palastin</button>
 <button onclick="falsee2()" id="egypt">Egypt</button>
 <button onclick="falsee3()" id="emirates">Emirates</button>
@@ -53,7 +56,7 @@
 <div>
 <button onclick="falsee4()" id="france">France</button>
 <button onclick="falsee6()" id="USA">USA</button>
-<button onclick="truee1()" id="Russia">Russia</button>
+<button onclick="truee1(), score() " id="Russia">Russia</button>
 <button onclick="falsee5()" id="canada">Canada</button>
 </div>
 <div>
@@ -63,30 +66,33 @@
   <button onclick="falsee7()" id="Maurice">Maurice</button>
   <button onclick="falsee8()" id="Seychelles">Seychelles</button>
   <button onclick="falsee9()" id="Maldives">Maldives</button>
-  <button onclick="truee3()" id="eswatini">Eswatini </button>
+  <button onclick="truee3(), score()" id="eswatini">Eswatini </button>
   </div>
 
   <img class="img4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png" alt="">
   <div><button onclick="falsee10()" id="Philippines">Philippines</button></div>
   <button onclick="falsee12()" id="germany">Germany</button>
-  <button onclick="truee4()" id="argentina">Argentina </button>
+  <button onclick="truee4(), score()" id="argentina">Argentina </button>
   <button onclick="falsee11()" id="uruguay">Uruguay</button>
 </div>
   <img class="img5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1280px-Flag_of_the_Dominican_Republic.svg.png" alt="">
 <div>
   <button onclick="falsee13()" class="danimarca ">Danimarca </button>
-<button onclick="truee5()()" class="dominican ">Dominican </button>
+<button onclick="truee5(), score()" class="dominican ">Dominican </button>
 <button onclick="falsee14()" class="australia">Australia</button>
 <button onclick="falsee15()" class="espain">Espain</button>
 </div>
 <img class="img6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png" alt="">
 
 <button onclick="falsee16()" class="poland ">Poland </button>
-<button onclick="truee5()()" class="greece ">Greece </button>
+<button onclick="truee5(), score()" class="greece ">Greece </button>
 <button onclick="falsee17()" class="hungary ">Hungary </button>
 <button onclick="falsee18()" class="turkey">Turkey</button>
 </div>
-
+<div class="restart">
+<h1>IF YOU LOVE THE GAME CLICK HERE</h1>
+<BUTTon>RESTART</BUTTon>
+</div>
   
 <script src="game.js"></script></body>
 </html>
