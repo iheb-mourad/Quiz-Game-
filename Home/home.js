@@ -18,7 +18,7 @@ function score(){
     Score=Score+10
     console.log(Score)
     if(Score>=0){
-        document.getElementById('score001').innerHTML ="" + Score 
+        document.getElementById('score001').innerText ="" + Score 
     }
 };
 
@@ -205,13 +205,4 @@ $(".img3").hide()
                                             function falsee18(){
                                                 $(".turkey").css( "text-decoration", "line-through","color:red")
                                                 $( ".turkey" ).css("color", "red")};
-
-                            
-                            
-                                         
-                               
-                               
-                               
-                               
-                               
-                               
+                          
